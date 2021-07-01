@@ -92,3 +92,8 @@ However as part of this challenge only the weather widget is built to just displ
   
 - The widget caters for the basic keyboard controls and screen-reader accessibility requirement because why not.
 
+[Desktop] - ![image](https://user-images.githubusercontent.com/86753021/124115655-698f5600-dab1-11eb-9e32-bc5b295829a5.png)
+[Mobile] - ![image](https://user-images.githubusercontent.com/86753021/124115835-9a6f8b00-dab1-11eb-94c0-b8dbb8cc29c1.png)
+
+
+
