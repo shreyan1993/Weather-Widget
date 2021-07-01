@@ -1,4 +1,6 @@
 import {css} from '@emotion/core';
+import Loader from 'assets/loader-icon.gif'
+
 
 
 export default css`
@@ -20,7 +22,7 @@ export default css`
 	.spinner {
 		height: 48px;
 		transform: translate(0%, 20%);
-		background-image: url('/images/loader-icon.gif');
+		background-image: url(${Loader});
 		background-repeat: no-repeat;
 		background-position: center center;
 
