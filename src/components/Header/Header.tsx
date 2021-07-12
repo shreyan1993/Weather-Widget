@@ -8,7 +8,7 @@ const Header: React.FC = () => (
 	<header css={styles}>
 		<Link className="logo" to={Routes.Home.path}>
 			<img src={Logo} alt="React App" />
-            2021 React Weather Widget | Nine FED Challenge
+             React Weather Widget Using Hooks
 		</Link>
 	</header>
 );
